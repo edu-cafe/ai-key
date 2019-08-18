@@ -11,30 +11,30 @@
 * 머신 러닝 개요     
 * 머신러닝/딥러닝 프로젝트 프로세스
 * 반드시 알아야하는 AI 관련 핵심 용어
-## 4. 머신러닝/딥러닝의 동작 원리
+## [4. 머신러닝/딥러닝의 동작 원리](ch04_MLPrinciple)
 * 학습모델과 Linear Regression
 * 비용함수와 최적화 알고리즘의 이해
 * Logistic Regression과 활성화 함수
 * Softmax의 동작과 활용
-## 5. 주요 머신러닝 알고리즘과 활용 방법의 이해
+## [5. 주요 머신러닝 알고리즘과 활용 방법의 이해](ch05_MLAlgorithm)
 * 나이브 베이즈 (Naive Bayes)
 * K-최근접 이웃 알고리즘 (k-nearest  neighbor, k-NN)
 * 신경망 (Neural Network)
 * 서포트 백터 머신 (Support Vector Machine)
 * Decision Tree와 Random Forest 앙상블
 * 그래디언트 부스팅 머신 (Gradient Boosting Machine)
-## 6. 딥러닝 개요와 구현 방법의 이해
+## [6. 딥러닝 개요와 구현 방법의 이해](ch06_DlNnBp)
 * 딥러닝 역사와 특징
 * DNN 모델의 구현과 활용 방법
 * 오차 역전파의 이해와 신경망 구현 기술
-## 7. 딥러닝 구현의 핵심 기술 요소
+## [7. 딥러닝 구현의 핵심 기술 요소](ch07_DlKey)
 * 데이터 전처리 (Data Processing) 
 * 가중치 초기화 (Weight Initialization)
 * 활성화 함수 (Activation Functions)
 * 최적화 (Optimization)
 * Normalization & Regularization 
 * Hyperparameter 최적화 (Optimization)
-## 8. 딥러닝 주요 알고리즘과 활용 방법의 이해
+## [8. 딥러닝 주요 알고리즘과 활용 방법의 이해](ch08_CnnRnnGan)
 * CNN 아키텍처 & 핵심 기술
 * RNN/LSTM 아키텍처 & 핵심 기술  
 * GAN 아키텍처 & 핵심기술
